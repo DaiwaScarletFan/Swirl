@@ -2,9 +2,20 @@ img {
     width: 500px;
 }
 
+
+.google-sans-GoogleSans {
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+
 body {
     text-align: center;
     font-family: Arial;
     background: azure;
     color: red;
+    
 }
